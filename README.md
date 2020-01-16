@@ -1,4 +1,7 @@
 # 20MA573 - Computational Finance 
 by Gwen Ostergren
 
-- First Project will be here. 
+## Homeworks 
+
+## In class practice 
+- [proj1](src/proj01.ipynb)
