@@ -2,7 +2,7 @@
 by Gwen Ostergren
 
 ## Homeworks 
-- All Homeworks will be linked here 
+- [hw1](src/HW01_Grid_random_walk.ipynb) 
 
 ## In class practice 
 - [proj1](src/proj01.ipynb)
