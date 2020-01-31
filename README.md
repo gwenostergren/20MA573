@@ -3,7 +3,7 @@ by Gwen Ostergren
 
 ## Homeworks 
 - [hw1](src/HW01_Grid_random_walk.ipynb)
-- [hw2](src/HW02fd2.ipynb)
+- [hw2](src/HW02_Finite_Difference.ipynb)
 
 ## In class practice 
 - [proj1](src/proj01.ipynb)
